@@ -16,3 +16,17 @@
 .Toolbar nav {
   height: 100%;
 }
+
+.Logo {
+  height: 80%;
+}
+
+.Menu {
+  background-color: white;
+}
+
+@media (max-width: 499px) {
+  .DesktopOnly {
+    display: none;
+  }
+}
